@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>D. Sree Yashaswinee</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/yashaswinee</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/yashaswinee</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>International Institue of Information Technology, Hyderabad</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
